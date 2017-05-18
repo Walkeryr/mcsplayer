@@ -1,6 +1,6 @@
 Screenshot
 
-[[https://github.com/Walkeryr/mcsplayer/blob/master/screenshot.png|alt=screenshot]]
+![Screenshot](https://github.com/Walkeryr/mcsplayer/blob/master/screenshot.png)
 
 How to launch project
 
